@@ -12,7 +12,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/klRHKRuGd8c?si=yLAvHPGbP6qB5MVO)
 
 Learn how to build and deploy your own Crypto Trading Bot from scratch using Node.js and JavaScript! 🚀 In this tutorial, we’ll walk through the complete process of creating an automated trading bot for DeFi exchanges, from setup to live deployment.
 
